@@ -11,3 +11,5 @@
 //вторая для test_3
 //все таки изменения
 //lol kakieto pravki
+
+//dlya udalyonnogo merga
